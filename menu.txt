@@ -1,0 +1,6 @@
+1. Cafe Noir ........... 30p
+2. Cafe au lait ........ 25p
+3. The ................. 20p
+4. Chocolat au lait .... 35p
+5. Cappuccino .......... 40p
+0. Annuler
